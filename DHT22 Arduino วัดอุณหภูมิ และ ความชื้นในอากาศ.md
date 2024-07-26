@@ -33,14 +33,116 @@
 // See guide for details on sensor wiring and usage:
 //   https://learn.adafruit.com/dht/overview
 
+DHT_Unified dht(DHTPIN, DHTTYPE);
+
+uint32_t delayMs;
+```
+```cmd (ค่าที่ไม่ได้ใช้)
+void setup() {
+  Serial.begin(9600);
+// Initialize device.
+dht.begin();
+Serial.println(F("DHTxx Unified Sensor Example"));
+// Print temperature sensor details.
+sensor_t sensore;
+dht.temperature() .getSensor(&sensor);
+Serial.println (F("----------------------------------"));
+Serial.println (F("Temperature Sensor"));
+Serial.println (F("Sensor Type: ")); Serial.println(sensor.name);
+Serial.println  (F("Driver Ver: ")); Serial.println(sensor.version);
+Serial.println (F("Unigue ID:   ")); Serial.println(sensor.sensor_id);
+Serial.println (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F("°C "));
+Serial.println (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F("°C "));
+Serial.println (F("Resolution:   ")); Serial.print(sensor.resolution); Serial.println(F("°C "));
+Serial.println (F("-----------------------------------------"));
+ // Print humidity sensor details.
+dht.humidity() .getSensor (&sensor);
+Serial.println(F("Humidity Sensor"));
+
+// Print humidity sensor details.
+dht.temperature() .getSensor(&sensor);
+Serial.println (F("Humidity Sensor"));
+Serial.println (F("Sensor Type: ")); Serial.println(sensor.name);
+Serial.println  (F("Driver Ver: ")); Serial.println(sensor.version);
+Serial.println (F("Unigue ID:   ")); Serial.println(sensor.sensor_id);
+Serial.println (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F(" % "));
+Serial.println (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F(" % "));
+Serial.println (F("Resolution:   ")); Serial.print(sensor.resolution); Serial.println(F(" % "));
+Serial.println (F("-----------------------------------------"));
+ // Set delay between sensor readings based on sensor datails.
+ delayMS = sensor.min_delay / 1000;
+}
+```
+
+```cmd (ควรสนใจ)
+void loop() {
+  // Delay between measurements.
+delay(delayMS);
+ // Get temperature event and print its value.
+sensors_event_t event;
+dht.temperature() .getEvent(&event);
+if (isnan (event. temperature)) {
+    Serial.println(F("Error reading temperature!"));
+}
+else {
+       Serial.println(F("Temperature: "));
+       Serial.println(event.temperature);
+       Serial.println(F("°C"));
+}
+// Get humidity event and print its value.
+dht.humidity() .getEvent(&event);
+if (isnan(event.relative_humidity)) {
+    Serial.println(F("Error reading humidity!"));
+}
+else {
+       Serial.println(F("Humidity: "));
+       Serial.println(event.relative_humidity);
+       Serial.println(F(" % "));
+     }
+}
 ```
 
 
 ### 2.แบบที่สอง
 ![452219120_1163551618237156_1571524004272609197_n](https://github.com/user-attachments/assets/1af11e85-75c6-4918-b0b5-999a63ed4360)
 
-### โค้ดโปรแกรมใส่ใน  Arduino
+### โค้ดโปรแกรมใส่ใน  Arduino เดียวกับด้านบน 
+```cmd (ค่าที่ไม่ได้ใช้)
+void setup() {
+  Serial.begin(9600);
+// Initialize device.
+dht.begin();
+Serial.println(F("DHTxx Unified Sensor Example"));
+// Print temperature sensor details.
+sensor_t sensore;
+dht.temperature() .getSensor(&sensor);
+Serial.println (F("----------------------------------"));
+Serial.println (F("Temperature Sensor"));
+Serial.println (F("Sensor Type: ")); Serial.println(sensor.name);
+Serial.println  (F("Driver Ver: ")); Serial.println(sensor.version);
+Serial.println (F("Unigue ID:   ")); Serial.println(sensor.sensor_id);
+Serial.println (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F("°C "));
+Serial.println (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F("°C "));
+Serial.println (F("Resolution:   ")); Serial.print(sensor.resolution); Serial.println(F("°C "));
+Serial.println (F("-----------------------------------------"));
+ // Print humidity sensor details.
+dht.humidity() .getSensor (&sensor);
+Serial.println(F("Humidity Sensor"));
 
+// Print humidity sensor details.
+dht.temperature() .getSensor(&sensor);
+Serial.println (F("Humidity Sensor"));
+Serial.println (F("Sensor Type: ")); Serial.println(sensor.name);
+Serial.println  (F("Driver Ver: ")); Serial.println(sensor.version);
+Serial.println (F("Unigue ID:   ")); Serial.println(sensor.sensor_id);
+Serial.println (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F(" % "));
+Serial.println (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F(" % "));
+Serial.println (F("Resolution:   ")); Serial.print(sensor.resolution); Serial.println(F(" % "));
+Serial.println (F("-----------------------------------------"));
+ // Set delay between sensor readings based on sensor datails.
+ delayMS = sensor.min_delay / 1000;
+}
+```
 
 
 
@@ -94,14 +196,14 @@
 ![ภาพ](https://github.com/user-attachments/assets/dc5fecc7-0e71-4813-993d-46c883d54de0)
 
 ### การใช้งาน
-#### 1.ลองตัวแรก
+
 ![ภาพ](https://github.com/user-attachments/assets/8935d977-81d0-4fe0-9ebd-80355aeea48e)
 
 ![ภาพ](https://github.com/user-attachments/assets/d6627177-585f-41b4-981a-86b8551bee9f)
 
 
 
-#### 2.ลองตัวสอง
+
 
 
 
