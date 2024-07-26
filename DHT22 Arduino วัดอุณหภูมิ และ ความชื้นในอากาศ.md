@@ -37,7 +37,7 @@
 
 
 ### 2.แบบที่สอง
-(![452219120_1163551618237156_1571524004272609197_n](https://github.com/user-attachments/assets/1af11e85-75c6-4918-b0b5-999a63ed4360)
+![452219120_1163551618237156_1571524004272609197_n](https://github.com/user-attachments/assets/1af11e85-75c6-4918-b0b5-999a63ed4360)
 
 ### โค้ดโปรแกรมใส่ใน  Arduino
 
