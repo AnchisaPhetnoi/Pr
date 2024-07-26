@@ -28,10 +28,24 @@
 
 
 
+![ภาพ](https://github.com/user-attachments/assets/b0ad7b2b-b48e-4994-b614-ac816fa36c9c)
+
+
+![ภาพ](https://github.com/user-attachments/assets/8080a24f-10f1-4688-a01d-72870bda0d17)
+
+![ภาพ](https://github.com/user-attachments/assets/e14beab6-3f5e-42f4-bb24-fe9958b4f8c8)
+
+
+![ภาพ](https://github.com/user-attachments/assets/841b224b-d3af-4f4f-9a02-02d89f26ebe8)
+
+
+![ภาพ](https://github.com/user-attachments/assets/dfafe20a-c5eb-4eb1-a859-64ab303a6c88)
 
 
 
 
 
 
+
+https://youtu.be/VDiramy8Be8?si=9gUY1DPu9PgPxab0
 
