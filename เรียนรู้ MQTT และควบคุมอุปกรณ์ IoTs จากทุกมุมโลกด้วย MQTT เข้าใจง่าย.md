@@ -138,5 +138,39 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+![ภาพ](https://github.com/user-attachments/assets/925a8902-addc-46d2-ae42-18ef09626227)
+
+![ภาพ](https://github.com/user-attachments/assets/c67a8ad6-bd9a-4d4d-aeea-cd4c6c2aa4ac)
+
+![ภาพ](https://github.com/user-attachments/assets/a65056d6-c2a2-453d-9c4b-50118450392a)
+
+![ภาพ](https://github.com/user-attachments/assets/41dc2ca4-dafb-42b9-b405-49c16ffd9fbb)
+
+![ภาพ](https://github.com/user-attachments/assets/95009661-4016-4c38-b810-9adbd7ea9540)
+
+![ภาพ](https://github.com/user-attachments/assets/7674230b-dde9-483c-ba32-ad3dd2776076)
+
+![ภาพ](https://github.com/user-attachments/assets/4d9a7fe5-b145-4c1a-b240-2318cd7cd28f)
+
+![ภาพ](https://github.com/user-attachments/assets/0e9c23a9-0370-43db-9d10-154b9e98ed17)
+
+![ภาพ](https://github.com/user-attachments/assets/7d912f7c-fbd7-4585-a87b-79360d12fb1c)
+
+
+![ภาพ](https://github.com/user-attachments/assets/9ec74747-0d70-4472-9612-044698dfac82)
+
+![ภาพ](https://github.com/user-attachments/assets/c322e998-9989-465b-8c65-2818b358b79a)
+
+![ภาพ](https://github.com/user-attachments/assets/5a1a38b3-5295-48f4-9a74-31794aa415e1)
+
+![ภาพ](https://github.com/user-attachments/assets/db1790d3-7c0b-47a3-a22c-283999ed09c4)
+
+
+
+
+
+
+
+https://youtu.be/Gu9txMng_nQ?si=OM6L8B3bs_LTpoz5
 
 
