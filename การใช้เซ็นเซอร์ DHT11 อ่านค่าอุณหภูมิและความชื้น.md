@@ -35,6 +35,11 @@ void loop()
 ## ผลลัพน์
 ![452147182_1033819275039504_7476498554973227084_n](https://github.com/user-attachments/assets/91d4f8b8-b7cc-4d15-9072-e16f1e7cae09)
 
+## ไลบรารี้
+ตามคลิปโหลดตาม
+ลิงค์ดาวน์โหลดโค้ด Arduino: https://drive.google.com/drive/folder...
+
+ลิงค์ดาวน์โหลด Library DHT.zip: https://drive.google.com/file/d/1UDKJ...
 
 ## รายละเอียด โค้ดโปรแกรม
 ![451450632_859275806081992_1639199327625954896_n](https://github.com/user-attachments/assets/a82ccb99-52a7-476c-8872-14da04ef0a66)
