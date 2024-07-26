@@ -3,9 +3,7 @@
 
 ### ผลลัพน์ ดังนี้
 #### 1.แบบแรก
-![452219120_1163551618237156_1571524004272609197_n](https://github.com/user-attachments/assets/2304f6ee-4e8b-4dfb-8bc3-6d36dcd5d004)
-
-
+![451803876_1652633288891200_6952959525567965509_n](https://github.com/user-attachments/assets/bc51d661-40b1-4477-8998-909b52cd76b1)
 
 ### 2.แบบที่สอง
 (![452219120_1163551618237156_1571524004272609197_n](https://github.com/user-attachments/assets/1af11e85-75c6-4918-b0b5-999a63ed4360)
