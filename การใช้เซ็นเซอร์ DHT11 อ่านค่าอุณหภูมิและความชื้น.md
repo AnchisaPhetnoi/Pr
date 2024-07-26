@@ -13,24 +13,22 @@
 
 ```cmd
 
+#include "DHT.h"
+DHT dht;
 
+void setup()
+{
+  Serial.begin(9600);
+  dht.setup(D1); // data pin D1
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+void loop()
+{
+  Serial.print("Humidity: " + String(dht.getHumidity()) + " %");
+  Serial.print("\t");
+  Serial.println("Temperature: " + String(dht.getTemperature()) + " C");
+  delay(1000);
+}
 
 
 ```
