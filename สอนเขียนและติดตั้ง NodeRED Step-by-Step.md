@@ -86,3 +86,58 @@ InfluxDB เป็นเครื่องมือที่มีประโ�
 
 ![ภาพ](https://github.com/user-attachments/assets/c5ab4de4-cffa-4799-8d50-8480ce4c70c7)
 
+### Loiko hot 1880
+![ภาพ](https://github.com/user-attachments/assets/b8d70ef4-cfb4-4abd-8f1b-3cf7f932179a)
+
+
+![ภาพ](https://github.com/user-attachments/assets/3fd6bee8-12c2-48b4-bbd8-91544d4cb207)
+
+![ภาพ](https://github.com/user-attachments/assets/a8e91da2-dea8-4fef-9341-4bac98f2e4c6)
+
+
+### ip confif
+
+![ภาพ](https://github.com/user-attachments/assets/15ea3d2f-9855-42db-a445-26aa526fe0f1)
+
+
+![ภาพ](https://github.com/user-attachments/assets/d2b1c40d-83d4-4957-92a6-9e3fbd1ebd2a)
+
+
+![ภาพ](https://github.com/user-attachments/assets/dccabd59-1c21-4563-86a1-8507b513650a)
+
+![ภาพ](https://github.com/user-attachments/assets/c93b99a4-9566-42e3-b5c1-76fe249eb8e6)
+
+
+![ภาพ](https://github.com/user-attachments/assets/b620819e-17f9-4c33-abd4-939bed3a0b82)
+
+
+![ภาพ](https://github.com/user-attachments/assets/46e899fc-96dd-4524-aa59-7b1b9a5a3287)
+
+
+![ภาพ](https://github.com/user-attachments/assets/7f65e026-211f-46ce-8961-bab2abc1cd79)
+
+
+![ภาพ](https://github.com/user-attachments/assets/cd598a5f-3599-4ee8-87c7-46aff046d294)
+
+![ภาพ](https://github.com/user-attachments/assets/375ed315-8487-4ae6-b871-008112becd2d)
+
+![ภาพ](https://github.com/user-attachments/assets/fad7562c-5f78-42df-ab62-2b4b9c04fa59)
+
+
+![ภาพ](https://github.com/user-attachments/assets/259fce22-8a39-4b97-a9a2-d14d68c1f4ca)
+
+
+![ภาพ](https://github.com/user-attachments/assets/b89c685a-d59d-43e2-aa9c-b1b8e654196a)
+
+
+
+https://youtu.be/SVB8MPJgqkg
+
+
+
+
+
+
+
+
+
